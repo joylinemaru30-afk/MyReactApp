@@ -34,6 +34,18 @@
   
   color: rgb(45, 48, 5);
 }
+.links{
+  margin: 5px;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #d0ced4;
+  padding: 7px;
+  margin-top: 40px;
+  border-radius: 10px;
+  color: aqua;
+}
 
 @keyframes App-logo-spin {
   from {
